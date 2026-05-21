@@ -33,4 +33,4 @@ Practica E
 - El código está en el directorio PracticaE
 - La imagen:
 
-![Práctica E funcionando](/images/picture.jpg)
+![Práctica E funcionando](/practicaE/images/picture.jpg)
