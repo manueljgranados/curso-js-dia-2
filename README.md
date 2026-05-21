@@ -28,3 +28,9 @@ Práctica D
 - ¿Cómo se indica la ruta del archivo? con la cláusula from dando la ruta relativa desde el fichero actual.
 - ¿Por qué usamos type="module" en el HTML? con eso se define que el script referenciado es un módulo js.
 - ¿Qué ventaja tiene separar el código en varios archivos en un proyecto real? Permite mayor legibilidad del código y dividir el código en grupos de fucionalidades.
+
+Practica E
+- El código está en el directorio PracticaE
+- La imagen:
+
+![Práctica E funcionando](/images/picture.jpg)
