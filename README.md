@@ -17,3 +17,6 @@ Practica B
   - GitHub: Alojamiento donde se puede centralizar el control de versiones con Git. Incluye herramientas CI/CD.
 - ¿Qué hace el comando git push? Sube a GitHub los cambios realizados en el git local.
 - ¿Qué hace el comando git pull? Descarga los cambios de un proyecto (o un proyecto entero si no está el sitio desde el que se hace)
+
+Práctica C
+- Subida de código
