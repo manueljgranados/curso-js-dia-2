@@ -20,3 +20,11 @@ Practica B
 
 Práctica C
 - Subida de código
+
+Práctica D
+- ¿Para qué sirve export? Para poner público un elemento de un fichero js. Así puede invocarse desde otros ficheros js.
+- ¿Qué pasa si no lo pones? No funcionaría la importación de ese elemento desde otro fichero.
+- ¿Para qué sirve import? Para importar, hacer uso, de un elemento definido en otro fichero js.
+- ¿Cómo se indica la ruta del archivo? con la cláusula from dando la ruta relativa desde el fichero actual.
+- ¿Por qué usamos type="module" en el HTML? con eso se define que el script referenciado es un módulo js.
+- ¿Qué ventaja tiene separar el código en varios archivos en un proyecto real? Permite mayor legibilidad del código y dividir el código en grupos de fucionalidades.
