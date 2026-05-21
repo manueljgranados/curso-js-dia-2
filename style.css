@@ -1,0 +1,135 @@
+/* ===== RESET ===== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== BODY ===== */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f7fb;
+  color: #333;
+  line-height: 1.6;
+  padding: 40px;
+}
+
+/* ===== CONTAINER ===== */
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== TITLES ===== */
+
+h1 {
+  color: #1e3a8a;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+h2 {
+  color: #2563eb;
+  margin: 20px 0 10px;
+}
+
+/* ===== TEXT ===== */
+
+p {
+  margin-bottom: 15px;
+}
+
+/* ===== BUTTONS ===== */
+
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+/* ===== INPUTS ===== */
+
+input,
+textarea,
+select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+/* ===== CARDS ===== */
+
+.tarjeta {
+  background: #eff6ff;
+  padding: 20px;
+  border-left: 5px solid #2563eb;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* ===== LISTS ===== */
+
+ul {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* ===== LINKS ===== */
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== FOOTER ===== */
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
+  .container {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+}
